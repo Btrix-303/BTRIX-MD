@@ -8,7 +8,7 @@
 <img src = "https://files.catbox.moe/pi5fnw.jpg"  width="300" height="200">
 </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=LOVELY-MD+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=𝐁𝐓𝐑𝐈𝐗-𝐗𝐃+WHATSAPP+BOT" alt="">
    
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
 
@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/00569678Avs/LOVELY-MD/fork"><img title="LOVELY-MD" src="https://img.shields.io/badge/FORK-LOVELY-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/00569678Avs/LOVELY-MD/fork"><img title="𝐁𝐓𝐑𝐈𝐗-𝐗𝐃" src="https://img.shields.io/badge/FORK-LOVELY-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
