@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/00569678Avs/LOVELY-MD/fork"><img title="𝐁𝐓𝐑𝐈𝐗-𝐗𝐃" src="https://img.shields.io/badge/FORK-LOVELY-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Btrix-303/BTRIX-XD/fork"><img title="𝐁𝐓𝐑𝐈𝐗-𝐗𝐃" src="https://img.shields.io/badge/FORK-𝐁𝐓𝐑𝐈𝐗-𝐗𝐃h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
