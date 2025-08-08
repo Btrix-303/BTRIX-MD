@@ -42,7 +42,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '1@newsletter',
-                    newsletterName: "_𝐌𝐃",
+                    newsletterName: "BTRIX_𝐌𝐃",
                     serverMessageId: 143
                 }
             }
