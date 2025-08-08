@@ -36,7 +36,7 @@ async (conn, mek, m, { from, sender, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '@newsletter',
-                    newsletterName: 𝐁𝐭𝐫𝐢𝐱_𝐌𝐃',
+                    newsletterName: '𝐁𝐭𝐫𝐢𝐱_𝐌𝐃',
                     serverMessageId: 143
                 }
             }
