@@ -254,7 +254,7 @@ cmd({
 ┃ 📅 *Updated On:* ${app.updated}
 ┃ 👨‍💻 *Developer:* ${app.developer.name}
 ╰━━━━━━━━━━━━━━━┈⊷
-🔗 **© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Arslan_MD ❣️*`;
+🔗 *© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐁𝐓𝐑𝐈𝐗 〽️𝑫*`;
 
     await conn.sendMessage(from, { react: { text: "⬆️", key: m.key } });
 
@@ -305,7 +305,7 @@ cmd({
         document: { url: downloadUrl },
         mimetype: response.data.result.mimetype,
         fileName: response.data.result.fileName,
-        caption: "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Arslan_MD ❣️*"
+        caption: "*© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐁𝐓𝐑𝐈𝐗 〽️𝑫*"
       }, { quoted: m });
 
       await conn.sendMessage(from, { react: { text: "✅", key: m.key } });

@@ -32,7 +32,7 @@ cmd({
       + `┃🎥 *Videos:* ${yt.video_count}\n`
       + `┃🔗 *Channel Link:* (${yt.channel})\n`
       + `╰━━━⪼\n\n`
-      + `🔹*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐀𝐫𝐬𝐥𝐚𝐧_𝐌𝐃 ❣️*`;
+      + `🔹*© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐁𝐓𝐑𝐈𝐗 〽️𝑫*`;
 
     await conn.sendMessage(from, {
       image: { url: yt.avatar },

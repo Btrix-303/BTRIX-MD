@@ -11,7 +11,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/Arslan-MD/Arslan_MD';
+    const githubRepoURL = 'https://github.com/Btrix-303/BTRIX-MD';
 
     try {
         const [, username, repoName] = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
@@ -179,8 +179,8 @@ ${repoData.description || 'No description provided'}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363348739987203@newsletter',
-                    newsletterName: config.OWNER_NAME || '𝐀𝐫𝐬𝐥𝐚𝐧_𝐌𝐃',
+                    newsletterJid: '@newsletter',
+                    newsletterName: config.OWNER_NAME || '𝐌𝐃',
                     serverMessageId: 143
                 }
             }
