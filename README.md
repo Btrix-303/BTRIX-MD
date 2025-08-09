@@ -31,7 +31,7 @@
 </p>
 
 <p>
-  <a href="https://0fb50fd1-2df8-41d2-b60e-1bdde003372d-00-1l85thork5142.pike.replit.dev/">
+  <a href="btrix-web-pair.zeabur.app">
     <img src='https://i.imgur.com/LyHic3i.gif'/>
   </a>
 </p>
