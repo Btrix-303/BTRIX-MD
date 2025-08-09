@@ -42,8 +42,10 @@
    
   1..DEPLOY ON HEROKU ⤵️
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FBtrix-303%2BTRIX-XD) 
-   
+ <b>Heroku:</b>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/XdKing2/MALVIN-XD" target="_blank">
+  <img src="https://img.shields.io/badge/Heroku-Deploy-7A3E9D?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
+</a>
    
   2..DEPLOY ON RENDER ⤵️
 
@@ -53,7 +55,7 @@
 
 <div align="center">
   <a href="https://dashboard.katabump.com/auth/login#203630" target="_blank">
-    <img src="https://img.shields.io/badge/Katabump%20Panel-Zenthra%20Compatible-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump Login"/>
+    <img src="https://img.shields.io/badge/Katabump%20Panel-BTRIX%20MD-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump Login"/>
   </a>
 </div>
 
