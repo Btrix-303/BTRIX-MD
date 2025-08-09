@@ -27,13 +27,13 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/qpnazl.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/ir0g61.jpg",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "𝐁𝐓𝐑𝐈𝐗 𝑴𝑫 𖤍",
+BOT_NAME: process.env.BOT_NAME || "ＢＴＲＩＸ-🇽ᗪ",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "𝐁𝐓𝐑𝐈𝐗 𝑴𝑫 𖤍",
+STICKER_NAME: process.env.STICKER_NAME || "ＢＴＲＩＸ-🇽ᗪ",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -43,7 +43,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "94775006179",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "*DadhuMD Official*",
+OWNER_NAME: process.env.OWNER_NAME || "*ＤᴀＴʜ υ⇏〽️ᗪ*",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ BTRIX MD Official ❣️*",
 // add bot owner name    
