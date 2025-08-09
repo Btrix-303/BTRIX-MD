@@ -73,11 +73,10 @@
   <img src="https://img.shields.io/badge/TalkDrove-Deploy-6B47FF?style=flat-square&logo=github&logoColor=white" alt="TalkDrove">
 </a>
 
-🎈 <b>Katabump:<b>
-<a href="https://dashboard.katabump.com/auth/login#203630" target="_blank">
-    <img src="https://img.shields.io/badge/Katabump%20Panel-BTRIX%20MD-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump Login"/>
-  </a>
-</div>
+🟢 <b>Deploy on Katabump:</b>  
+<a href="https://control.katabump.com" target="_blank">
+  <img src="https://img.shields.io/badge/Katabump-Deploy-success?style=flat-square&logo=vercel&logoColor=white" alt="Katabump">
+</a>
 
 ---
 
