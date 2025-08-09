@@ -77,7 +77,7 @@
 ---
 ## 📡 PANEL DEPLOYMENT OPTIONS
 
-> Get the latest MALVIN-XD bot zip file for panel-based deployment:
+> Get the latest BTRIX-MD bot zip file for panel-based deployment:
 
 <div align="left">
   <a href="https://github.com/Btrix-303/BTRIX-MD/archive/refs/heads/main.zip" target="_blank">
@@ -85,9 +85,7 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
-</p>
+---
 
 > ✅ Deploy to any panel service of your choice.
 
@@ -102,7 +100,10 @@
   <img src="https://img.shields.io/badge/Bot_Hosting-00ff99?style=flat-square&logo=linux&logoColor=white" alt="bot hosting">
 </a>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
+</p>
+
 
  DEPLOY ON GITHUB ⤵️
 
