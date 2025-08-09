@@ -38,7 +38,9 @@
 
  **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
  
-----
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
+</p>
 
 <p align="center">Choose a platform and deploy instantly:</p>
 
