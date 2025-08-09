@@ -37,19 +37,20 @@
 </p>
 
  **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
-
+ 
+----
 
 <p align="center">Choose a platform and deploy instantly:</p>
 
 <div align="left" style="margin-left: 20px; font-size: 1.05em; line-height: 2.2em;">
 
 🔵 <b>Heroku:</b>  
-<a href="https://dashboard.heroku.com/new?template=https://github.com/XdKing2/MALVIN-XD" target="_blank">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Btrix-303/BTRIX-MD" target="_blank">
   <img src="https://img.shields.io/badge/Heroku-Deploy-7A3E9D?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
 </a>
 
 💗 <b>Koyeb:</b>  
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing3/MALVIN-XD" target="_blank">
+<a href="https://app.koyeb.com/services/deploy?type=git&repository=Btrix-303/BTRIX-MD" target="_blank">
   <img src="https://img.shields.io/badge/Koyeb-Deploy-FF2D95?style=flat-square&logo=koyeb&logoColor=white" alt="Koyeb">
 </a>
 
@@ -74,6 +75,22 @@
 </a>
 
 ---
+## 📡 PANEL DEPLOYMENT OPTIONS
+
+> Get the latest MALVIN-XD bot zip file for panel-based deployment:
+
+<div align="left">
+  <a href="https://github.com/Btrix-303/BTRIX-MD/archive/refs/heads/main.zip" target="_blank">
+    <img alt="Download Panel ZIP" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
+</p>
+
+> ✅ Deploy to any panel service of your choice.
+
 
 🟢 <b>Katabump:</b>  
 <a href="https://control.katabump.com" target="_blank">
