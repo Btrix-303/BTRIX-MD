@@ -49,8 +49,17 @@
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Btrix-303/BTRIX-XD.git)
 
+  3.🚀 Deploy Instantly on Katabump Panel
 
-   3..DEPLOY ON GITHUB ⤵️
+<div align="center">
+  <a href="https://dashboard.katabump.com/auth/login#203630" target="_blank">
+    <img src="https://img.shields.io/badge/Katabump%20Panel-Zenthra%20Compatible-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump Login"/>
+  </a>
+</div>
+
+---
+
+   4.DEPLOY ON GITHUB ⤵️
 
 
 </details>
