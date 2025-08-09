@@ -78,6 +78,11 @@
   <img src="https://img.shields.io/badge/Katabump-Deploy-success?style=flat-square&logo=vercel&logoColor=white" alt="Katabump">
 </a>
 
+🚀 <b>Host Your Bot on Katabump:</b>  
+<a href="https://control.katabump.com" target="_blank">
+  <img src="https://img.shields.io/badge/Katabump-Bot_Hosting-00ff99?style=for-the-badge&logo=linux&logoColor=white" alt="Host on Katabump">
+</a>
+
 ---
 
  DEPLOY ON GITHUB ⤵️
