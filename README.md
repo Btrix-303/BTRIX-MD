@@ -25,13 +25,13 @@
 > To deploy, generate your session ID from the link below:
 
 <p align="left">
-  <a href="btrix-web-pair.zeabur.app">
+  <a href="https://btrix-web-pair.zeabur.app">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
 
 <p>
-  <a href="btrix-web-pair.zeabur.app">
+  <a href="https://btrix-web-pair.zeabur.app">
     <img src='https://i.imgur.com/LyHic3i.gif'/>
   </a>
 </p>
