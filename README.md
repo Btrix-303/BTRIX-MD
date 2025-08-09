@@ -73,14 +73,16 @@
   <img src="https://img.shields.io/badge/TalkDrove-Deploy-6B47FF?style=flat-square&logo=github&logoColor=white" alt="TalkDrove">
 </a>
 
-🟢 <b>Deploy on Katabump:</b>  
+---
+
+🟢 <b>Katabump:</b>  
 <a href="https://control.katabump.com" target="_blank">
   <img src="https://img.shields.io/badge/Katabump-Deploy-success?style=flat-square&logo=vercel&logoColor=white" alt="Katabump">
 </a>
 
-🚀 <b>Host Your Bot on Katabump:</b>  
+🚀 <b>Bot Hosting:</b>  
 <a href="https://control.katabump.com" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-Bot_Hosting-00ff99?style=for-the-badge&logo=linux&logoColor=white" alt="bot hosting">
+  <img src="https://img.shields.io/badge/Bot_Hosting-00ff99?style=for-the-badge&logo=linux&logoColor=white" alt="bot hosting">
 </a>
 
 ---
