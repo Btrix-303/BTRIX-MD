@@ -80,7 +80,7 @@
 
 🚀 <b>Host Your Bot on Katabump:</b>  
 <a href="https://control.katabump.com" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-Bot_Hosting-00ff99?style=for-the-badge&logo=linux&logoColor=white" alt="Host on Katabump">
+  <img src="https://img.shields.io/badge/Katabump-Bot_Hosting-00ff99?style=for-the-badge&logo=linux&logoColor=white" alt="bot hosting">
 </a>
 
 ---
