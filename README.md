@@ -12,7 +12,7 @@
    
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
 
-**1. Fork This Repository**
+**Fork This Repository**
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
@@ -36,22 +36,47 @@
   </a>
 </p>
 
-2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
+ **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
 
-   
-  1..DEPLOY ON HEROKU ⤵️
-  
- <b>Heroku:</b>  
+<p align="center">Choose a platform and deploy instantly:</p>
+
+<div align="left" style="margin-left: 20px; font-size: 1.05em; line-height: 2.2em;">
+
+🔵 <b>Heroku:</b>  
 <a href="https://dashboard.heroku.com/new?template=https://github.com/XdKing2/MALVIN-XD" target="_blank">
   <img src="https://img.shields.io/badge/Heroku-Deploy-7A3E9D?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
 </a>
-   
-  2..DEPLOY ON RENDER ⤵️
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Btrix-303/BTRIX-XD.git)
+💗 <b>Koyeb:</b>  
+<a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing3/MALVIN-XD" target="_blank">
+  <img src="https://img.shields.io/badge/Koyeb-Deploy-FF2D95?style=flat-square&logo=koyeb&logoColor=white" alt="Koyeb">
+</a>
 
-  3.🚀 Deploy Instantly on Katabump Panel
+⚫ <b>Railway:</b>  
+<a href="https://railway.app/new" target="_blank">
+  <img src="https://img.shields.io/badge/Railway-Deploy-121212?style=flat-square&logo=railway&logoColor=white" alt="Railway">
+</a>
+
+💚 <b>Render:</b>  
+<a href="https://dashboard.render.com/web/new" target="_blank">
+  <img src="https://img.shields.io/badge/Render-Deploy-00C7A9?style=flat-square&logo=render&logoColor=white" alt="Render">
+</a>
+
+💎 <b>Netlify:</b>  
+<a href="https://app.netlify.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Netlify-Deploy-00ADB5?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
+</a>
+
+🟡 <b>TalkDrove:</b>  
+<a href="https://talkdrove.com" target="_blank">
+  <img src="https://img.shields.io/badge/TalkDrove-Deploy-6B47FF?style=flat-square&logo=github&logoColor=white" alt="TalkDrove">
+</a>
+
+</div>
+
+
+🚀 Deploy Instantly on Katabump Panel
 
 <div align="center">
   <a href="https://dashboard.katabump.com/auth/login#203630" target="_blank">
