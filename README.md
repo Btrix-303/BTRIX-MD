@@ -73,20 +73,15 @@
   <img src="https://img.shields.io/badge/TalkDrove-Deploy-6B47FF?style=flat-square&logo=github&logoColor=white" alt="TalkDrove">
 </a>
 
-</div>
-
-
-🚀 Deploy Instantly on Katabump Panel
-
-<div align="center">
-  <a href="https://dashboard.katabump.com/auth/login#203630" target="_blank">
+🎈 <b>Katabump:<b>
+<a href="https://dashboard.katabump.com/auth/login#203630" target="_blank">
     <img src="https://img.shields.io/badge/Katabump%20Panel-BTRIX%20MD-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump Login"/>
   </a>
 </div>
 
 ---
 
-   4.DEPLOY ON GITHUB ⤵️
+ DEPLOY ON GITHUB ⤵️
 
 
 </details>
