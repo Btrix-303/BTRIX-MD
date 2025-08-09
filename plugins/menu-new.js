@@ -13,7 +13,7 @@ cmd({
     try {
         const menuCaption = `
 ╭━━━〔 *${config.BOT_NAME}* 〕━━━┈⊷
-│ 👋 𝐇𝐈, ${pushname} 𝐈𝐌 𝐀𝐋𝐈𝐕𝐄 𝐍𝐎𝐖
+│ 👋 𝐇𝐈, 𝐈𝐌 𝐀𝐋𝐈𝐕𝐄 𝐍𝐎𝐖
 │
 ┃★╭──────────────
 │★ |📌 *𝙾𝚆𝙽𝙴𝚁*  : ${config.OWNER_NAME}
